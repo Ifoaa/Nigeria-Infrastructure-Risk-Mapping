@@ -21,4 +21,4 @@ This project predicts road and bridge failure risks in Nigeria using "GIS and AI
 - Code repository for transparency and collaboration
 
 ## Links
-- [LinkedIn Portfolio](https://www.linkedin.com/in/favour-idogun)
+- [LinkedIn Portfolio]((https://www.linkedin.com/in/favour-idogun-71aa571b8/))
